@@ -1,1 +1,1 @@
-# sgh_r_projects
+# sgh_projects
